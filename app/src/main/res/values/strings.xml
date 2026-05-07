@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ViewModelLiveDataDemoEnrichi</string>
+    <string name="screen_title">Compteur LiveData</string>
+    <string name="screen_subtitle">ViewModel + LiveData</string>
+    <string name="counter_label">VALEUR ACTUELLE</string>
+    <string name="default_count">0</string>
+    <string name="increment">+ INCR&#201;MENTER</string>
+    <string name="decrement">- D&#201;CR&#201;MENTER</string>
+    <string name="reset">R&#201;INITIALISER</string>
+    <string name="author_signature">Realise par Lemghili Mohammed Amine</string>
+</resources>

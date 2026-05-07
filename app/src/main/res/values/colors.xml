@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F5F7FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_tint">#EAF7F5</color>
+    <color name="text_primary">#17202A</color>
+    <color name="text_secondary">#596579</color>
+    <color name="text_muted">#7A8494</color>
+    <color name="accent_teal">#00796B</color>
+    <color name="accent_green">#00A676</color>
+    <color name="accent_coral">#F05D5E</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="button_reset_text">#263238</color>
+</resources>
